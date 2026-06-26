@@ -1,6 +1,8 @@
 # Graziele da Silva
 
-Profissional em transição de carreira para Análise de Dados, com experiência prática em identificação de padrões, investigação de causa raiz e melhoria de processos no Itaú e no Instituto do Meio Ambiente de Santa Catarina (IMA).
+### Em transição de carreira para Análise de Dados
+
+Tenho experiência prática em identificação de padrões, investigação de causa raiz e melhoria de processos, construída no Itaú e no Instituto do Meio Ambiente de Santa Catarina (IMA).
 
 Tenho um interesse genuíno por encontrar padrões em dados operacionais e transformar isso em ações concretas que geram resultado real — alguns desses casos estão documentados abaixo.
 
