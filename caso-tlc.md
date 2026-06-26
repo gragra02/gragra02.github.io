@@ -1,9 +1,9 @@
-# Redução de reaberturas em ocorrências TLC
+# Redução de ocorrências reabertas no atendimento
 
 **Empresa:** Itaú
-**Área:** Atendimento / Tratativa de Ocorrências (TLC — ocorrências reabertas)
+**Área:** Atendimento / Tratativa de Ocorrências (segunda análise de casos reabertos)
 **Duração:** Mais de 3 meses
-**Resultado:** Reaberturas reduzidas a ponto de, em diversos dias, não haver nenhuma ocorrência de TLC — exigindo realocação para o atendimento de ocorrências padrão
+**Resultado:** Reaberturas reduzidas a ponto de, em diversos dias, não haver nenhuma ocorrência desse tipo para tratar — exigindo realocação para o atendimento de ocorrências padrão
 
 [← Voltar para a página inicial](./)
 
@@ -11,11 +11,11 @@
 
 ## Contexto
 
-Após um bom desempenho tratando chamados e contribuindo para a documentação de processos do time, fui direcionada para as ocorrências de TLC — ocorrências reabertas, consideradas mais complexas por exigirem uma segunda análise sobre um caso que já havia sido tratado anteriormente.
+Após um bom desempenho tratando chamados e contribuindo para a documentação de processos do time, fui direcionada para o tratamento de ocorrências reabertas — casos que já haviam sido analisados anteriormente e voltavam para uma segunda tratativa, geralmente por serem mais complexos.
 
 ## Problema identificado
 
-Ao analisar o volume de reaberturas, identifiquei um padrão recorrente: grande parte das ocorrências não era reaberta por complexidade real do caso, mas por falhas evitáveis na tratativa original, entre elas:
+Ao analisar o volume de reaberturas, identifiquei um padrão recorrente: grande parte dos casos não retornava por complexidade real, mas por falhas evitáveis na tratativa original, entre elas:
 
 - Erros na tratativa do atendente responsável pelo caso original
 - Dificuldade em pesquisar corretamente a base de conhecimento disponível
@@ -35,7 +35,7 @@ Essa abordagem transformou um problema recorrente e disperso em um ciclo contín
 
 ## Resultado
 
-A quantidade de ocorrências reabertas por esses motivos caiu de forma significativa. Em diversos dias, não havia nenhuma ocorrência de TLC para tratar — a ponto de ser necessário redirecionar o trabalho para o atendimento de ocorrências padrão, evidenciando o impacto direto e sustentado da iniciativa.
+A quantidade de ocorrências reabertas por esses motivos caiu de forma significativa. Em diversos dias, não havia nenhum caso desse tipo para tratar — a ponto de ser necessário redirecionar o trabalho para o atendimento de ocorrências padrão, evidenciando o impacto direto e sustentado da iniciativa.
 
 ## Habilidades demonstradas
 
