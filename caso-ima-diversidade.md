@@ -1,6 +1,6 @@
 # Identificação de padrão de representatividade em processo seletivo
 
-**Instituição:** IMA
+**Instituição:** IMA/SC - Instituto do Meio Ambiente de Santa Catarina. 
 **Área:** Contratação de novos servidores
 **Contexto:** Processo de contratação de 30 novos colaboradores
 
