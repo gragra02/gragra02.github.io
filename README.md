@@ -1,6 +1,6 @@
 # Graziele da Silva
 
-Profissional em transição de carreira para Análise de Dados, com experiência prática em identificação de padrões, investigação de causa raiz e melhoria de processos no Itaú e no IMA.
+Profissional em transição de carreira para Análise de Dados, com experiência prática em identificação de padrões, investigação de causa raiz e melhoria de processos no Itaú e no Instituto do Meio Ambiente de Santa Catarina (IMA).
 
 Tenho um interesse genuíno por encontrar padrões em dados operacionais e transformar isso em ações concretas que geram resultado real — alguns desses casos estão documentados abaixo.
 
@@ -10,8 +10,9 @@ Tenho um interesse genuíno por encontrar padrões em dados operacionais e trans
 
 ## Estudos de Caso
 
-- [Redução de reaberturas em ocorrências TLC](./caso-tlc.md) — identificação de padrão de erro recorrente e ação corretiva via reuniões semanais com o time
+- [Redução de ocorrências reabertas no atendimento](./caso-tlc.md) — identificação de padrão de erro recorrente em casos de segunda análise e ação corretiva via reuniões semanais com o time
 - [Liberação de acesso à ferramenta de NPS](./caso-nps.md) — investigação de causa raiz em ocorrências repetidas e proposta de solução simples
+- [Identificação de padrão de representatividade em processo seletivo](./caso-ima-diversidade.md) — observação de um padrão sensível em processo de contratação institucional
 
 ---
 
